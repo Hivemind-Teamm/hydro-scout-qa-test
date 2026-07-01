@@ -1,0 +1,17 @@
+{
+  "name": "hydro-scout-selenium-simple-basis",
+  "version": "1.0.0",
+  "description": "Hydro-Scout Selenium tests TC001 to TC029",
+  "main": "TC001.js",
+  "scripts": {
+    "test": "echo \"Run tests individually with: node TC001.js\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chromedriver": "^149.0.4",
+    "selenium-webdriver": "^4.41.0"
+  }
+}
