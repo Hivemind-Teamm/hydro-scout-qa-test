@@ -6,7 +6,6 @@ Run:
 
 ```bash
 npm install
-node TC001.js
+node tests/TC001.js - run test cases individually
+node tests - run test cases as a whole
 ```
-
-Each test file contains only the account needed for that case.
